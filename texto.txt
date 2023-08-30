@@ -1,1 +1,2 @@
 Arquivo de texto 
+- Adicionando item de modificação do arquivo.
