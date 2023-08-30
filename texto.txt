@@ -1,2 +1,11 @@
 Arquivo de texto 
 - Adicionando item de modificação do arquivo.
+
+Outras modificações:
+
+Carnes de um churrasco:
+- Picanha
+- Alcatra
+- Fraldinha
+- Costela
+- Coração
